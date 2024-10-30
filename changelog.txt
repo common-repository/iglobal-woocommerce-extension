@@ -1,0 +1,10 @@
+*** Iglobal Plugin Changelog ***
+1.1.6: Fixing Issue with Shipping/Duties & Taxes import
+1.1.7: Fixing Issue with changing order status
+1.1.8: Fixing Issue with checkout button url
+1.2.0: Added support for coupon codes and updated the welcome mat style
+1.2.1 Fixing success page text to include store order number
+1.2.2 Dont import coupons as line items
+1.2.3 Add missing discounts as seperate line item 
+1.2.4 Collect discount price
+1.2.5 Support importing orders into woo commerce v3
